@@ -6,6 +6,8 @@ import Ejercicio2 from "./Ejercicio2";
 import Ejercicio3 from "./Ejercicio3";
 import Ejercicio4 from "./Ejercicio4";
 import Ejercicio5 from "./Ejercicio5";
+import Ejercicio6 from "./Ejercicio6";
+import Ejercicio7 from "./Ejercicio7";
 
 export default function Home() {
   return (
@@ -15,6 +17,8 @@ export default function Home() {
       <Ejercicio3/>
       <Ejercicio4/>
       <Ejercicio5/> 
+      <Ejercicio6/>
+      <Ejercicio7/>
     </div>
   );
 }
