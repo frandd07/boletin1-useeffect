@@ -39,7 +39,7 @@ function Ejercicio7() {
 
   return (
     <div>
-    <h1>Ejercicio 8: Iniciar sesión utilizando Local Storage</h1>
+    <h1>Ejercicio 7: Iniciar sesión utilizando Local Storage</h1>
 
       {estaAutenticado ? (
         <div>
